@@ -44,3 +44,5 @@ public class ScreeShot {
 		FileHandler.copy(filesrc2, fileDest2);
 
 		driver.close();
+		}
+		
